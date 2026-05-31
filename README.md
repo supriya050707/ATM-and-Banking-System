@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224110051
+# Name:Supriya S J
+# Date:31/05/2026
 
 
 # AIM:
@@ -50,6 +50,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1003" height="820" alt="image" src="https://github.com/user-attachments/assets/d487e7ac-c268-4121-9bf7-a4371973a045" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="836" height="596" alt="image" src="https://github.com/user-attachments/assets/cdd6d60b-b2c5-460f-ba6f-60b96e53e544" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +78,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="1005" height="713" alt="image" src="https://github.com/user-attachments/assets/ab67a0ad-5f3c-4cef-8c2f-0e95b6e94684" />
 
 
 
@@ -91,6 +95,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="975" height="520" alt="image" src="https://github.com/user-attachments/assets/02f0adbd-e22a-4319-b83b-1f4675f5a3cc" />
 
 
 
@@ -107,6 +112,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="996" height="777" alt="image" src="https://github.com/user-attachments/assets/b6fb8162-b40a-4c23-b367-fdcc8260458e" />
 
 
 
@@ -127,6 +133,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+
+<img width="1009" height="840" alt="image" src="https://github.com/user-attachments/assets/69e1bc7e-ee45-4975-9ede-0161be139d67" />
 
 
 
